@@ -2,7 +2,7 @@
 
 A simple and responsive weather application built with React that displays the current weather conditions for Errachidia. This app fetches data from the OpenWeatherMap API and is intended primarily for testing API functionality. It supports English and French languages.
 
-![Weather App Screenshot](public/screenshot.png)
+![Weather App Screenshot](/public/screenshot.png)
 
 ## Features
 - Displays current temperature, weather description, and forecast specifically for Errachidia.
