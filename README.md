@@ -25,16 +25,10 @@ A simple and responsive weather application built with React that displays the c
 
 3. Install dependencies using npm
    ```bash
-    npm install
-or
-   ```bash
-    yarn install
+    npm install or yarn install
 
 4. Start the development server using npm with Vite
    ```bash
-    npm run dev
-or
-   ```bash
-    yarn dev
+    npm run dev or yarn dev
 
 
