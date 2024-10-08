@@ -38,7 +38,7 @@ export default function Weather() {
         setDateAndTime(`${translatedDay} ${todayDate}`);
 
         axios
-            .get("https://api.openweathermap.org/data/2.5/weather?lat=31.9314000&lon=-4.4266300&appid=ebcb9746d98788940b2fbe8838b94aba", {
+            .get("https://api.openweathermap.org/data/2.5/weather?lat=31.9314000&lon=-4.4266300&appid={your API KEY}", {
                 cancelToken: new axios.CancelToken((c) => {
                     cancelAxios = c;
                 }),
